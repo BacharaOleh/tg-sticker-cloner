@@ -9,8 +9,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Логи
+# Логи и данные пользователей
 *.log
+data/
+user_langs.json
 
 # Временные системные файлы
 .DS_Store
